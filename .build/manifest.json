@@ -1,0 +1,1849 @@
+{
+  "playlists": [
+    {
+      "name": "央视频道",
+      "desc": "央视频道",
+      "fileName": "CCTV.m3u",
+      "filePath": "./m3u/CCTV.m3u",
+      "total": 27,
+      "channels": [
+        {
+          "duration": -1,
+          "tvgName": "CCTV1",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-1 综合",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV2",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-2 财经",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV3",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-3 综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV4",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-4 中文国际",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV5",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-5 体育",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV5+",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-5+ 体育赛事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV6",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-6 电影",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV7",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-7 国防军事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV8",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-8 电视剧",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV9",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-9 纪录",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV10",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-10 科教",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV11",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-11 戏曲",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV12",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-12 社会与法",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV13",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-13 新闻",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV14",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-14 少儿",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV15",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-15 音乐",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV16",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-16 奥林匹克",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV17",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-17 农业农村",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC影迷电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC影迷电影.png",
+          "groupTitle": "央视频道",
+          "name": "CHC影迷电影",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC动作电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC动作电影.png",
+          "groupTitle": "央视频道",
+          "name": "CHC动作电影",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC家庭影院",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC家庭影院.png",
+          "groupTitle": "央视频道",
+          "name": "CHC家庭影院",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN英语",
+          "url": "https://0472.org/hls/cgtn.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN纪录.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN记录",
+          "url": "https://0472.org/hls/cgtnd.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN俄语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN俄语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN俄语",
+          "url": "https://0472.org/hls/cgtne.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN法语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN法语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN法语",
+          "url": "https://0472.org/hls/cgtnf.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN西语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN西语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN西语",
+          "url": "https://0472.org/hls/cgtnx.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN阿语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN阿语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN阿语",
+          "url": "https://0472.org/hls/cgtna.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "卫视频道",
+      "desc": "卫视频道",
+      "fileName": "SATV.m3u",
+      "filePath": "./m3u/SATV.m3u",
+      "total": 42,
+      "channels": [
+        {
+          "duration": -1,
+          "tvgName": "北京卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/北京卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "北京卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "湖南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/湖南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "湖南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "东方卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/东方卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "东方卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "四川卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/四川卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "四川卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "天津卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/天津卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "天津卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "安徽卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/安徽卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "安徽卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "山东卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/山东卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "山东卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "深圳卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/深圳卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "深圳卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "广东卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/广东卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "广东卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "广西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/广西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "广西卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "江苏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/江苏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "江苏卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "江西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/江西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "江西卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "河北卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/河北卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "河北卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "河南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/河南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "河南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "浙江卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/浙江卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "浙江卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "海南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/海南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "海南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "湖北卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/湖北卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "湖北卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "山西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "山西卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "东南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/东南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "东南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "贵州卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/贵州卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "贵州卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "辽宁卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/辽宁卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "辽宁卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "重庆卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/重庆卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "重庆卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑龙江卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑龙江卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "黑龙江卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "内蒙古卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "内蒙古卫视",
+          "url": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
+        },
+        {
+          "duration": -1,
+          "tvgName": "宁夏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/宁夏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "宁夏卫视",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "陕西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/陕西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "陕西卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "吉林卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/吉林卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "吉林卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "甘肃卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/甘肃卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "甘肃卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "云南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/云南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "云南卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "三沙卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/三沙卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "三沙卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "青海卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/青海卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "青海卫视",
+          "url": "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "新疆卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/新疆卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "新疆卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "西藏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "西藏卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "兵团卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/兵团卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "兵团卫视",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "延边卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/延边卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "延边卫视",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "安多卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/安多卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "安多卫视",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "厦门卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/厦门卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "厦门卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "康巴卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/康巴卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "康巴卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "大湾区卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/大湾区卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "大湾区卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育1台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV1.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-1",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育2台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV2.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-2",
+          "url": "http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育4台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV4.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-4",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "数字频道",
+      "desc": "数字频道",
+      "fileName": "DTV.m3u",
+      "filePath": "./m3u/DTV.m3u",
+      "total": 44,
+      "channels": [
+        {
+          "duration": -1,
+          "tvgName": "上海纪实人文",
+          "tvgLogo": "https://live.fanmingming.com/tv/纪实人文.png",
+          "groupTitle": "数字频道",
+          "name": "纪实人文",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "纪实科教",
+          "tvgLogo": "https://live.fanmingming.com/tv/北京纪实科教.png",
+          "groupTitle": "数字频道",
+          "name": "纪实科教",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "劲爆体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/劲爆体育.png",
+          "groupTitle": "数字频道",
+          "name": "劲爆体育",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "全纪实",
+          "tvgLogo": "https://live.fanmingming.com/tv/乐游.png",
+          "groupTitle": "数字频道",
+          "name": "乐游频道",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "欢笑剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/欢笑剧场.png",
+          "groupTitle": "数字频道",
+          "name": "欢笑剧场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "都市剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/都市剧场.png",
+          "groupTitle": "数字频道",
+          "name": "都市剧场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金色学堂",
+          "tvgLogo": "https://live.fanmingming.com/tv/金色学堂.png",
+          "groupTitle": "数字频道",
+          "name": "金色学堂",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "卡酷动画",
+          "tvgLogo": "https://live.fanmingming.com/tv/卡酷少儿.png",
+          "groupTitle": "数字频道",
+          "name": "卡酷少儿",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金鹰卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/金鹰卡通.png",
+          "groupTitle": "数字频道",
+          "name": "金鹰卡通",
+          "url": "http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金鹰纪实",
+          "tvgLogo": "https://live.fanmingming.com/tv/金鹰纪实.png",
+          "groupTitle": "数字频道",
+          "name": "金鹰纪实",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "快乐垂钓",
+          "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
+          "groupTitle": "数字频道",
+          "name": "快乐垂钓",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "茶",
+          "tvgLogo": "https://live.fanmingming.com/tv/茶.png",
+          "groupTitle": "数字频道",
+          "name": "茶友频道",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "游戏风云",
+          "tvgLogo": "https://live.fanmingming.com/tv/游戏风云.png",
+          "groupTitle": "数字频道",
+          "name": "游戏风云",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "动漫秀场",
+          "tvgLogo": "https://live.fanmingming.com/tv/动漫秀场.png",
+          "groupTitle": "数字频道",
+          "name": "动漫秀场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "嘉佳卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/嘉佳卡通.png",
+          "groupTitle": "数字频道",
+          "name": "嘉佳卡通",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哒啵赛事",
+          "tvgLogo": "https://live.fanmingming.com/tv/哒啵赛事.png",
+          "groupTitle": "数字频道",
+          "name": "哒啵赛事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哒啵电竞",
+          "tvgLogo": "https://live.fanmingming.com/tv/哒啵电竞.png",
+          "groupTitle": "数字频道",
+          "name": "哒啵电竞",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "优漫卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/优漫卡通.png",
+          "groupTitle": "数字频道",
+          "name": "优漫卡通",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哈哈炫动",
+          "tvgLogo": "https://live.fanmingming.com/tv/哈哈炫动.png",
+          "groupTitle": "数字频道",
+          "name": "哈哈炫动",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑莓动画",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑莓动画.png",
+          "groupTitle": "数字频道",
+          "name": "黑莓动画",
+          "url": "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑莓电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑莓电影.png",
+          "groupTitle": "数字频道",
+          "name": "黑莓电影",
+          "url": "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索纪录.png",
+          "groupTitle": "数字频道",
+          "name": "求索纪录",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索生活",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索生活.png",
+          "groupTitle": "数字频道",
+          "name": "求索生活",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索动物",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索动物.png",
+          "groupTitle": "数字频道",
+          "name": "求索动物",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索科学",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索科学.png",
+          "groupTitle": "数字频道",
+          "name": "求索科学",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级体育.png",
+          "groupTitle": "数字频道",
+          "name": "超级体育",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级电影.png",
+          "groupTitle": "数字频道",
+          "name": "超级电影",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级电视剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级电视剧.png",
+          "groupTitle": "数字频道",
+          "name": "超级视剧",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv东北热剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV东北热剧.png",
+          "groupTitle": "数字频道",
+          "name": "东北热剧",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv海外剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV海外剧场.png",
+          "groupTitle": "数字频道",
+          "name": "海外剧场",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv中国功夫",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV中国功夫.png",
+          "groupTitle": "数字频道",
+          "name": "中国功夫",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv军旅剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV军旅剧场.png",
+          "groupTitle": "数字频道",
+          "name": "军旅剧场",
+          "url": "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv惊悚悬疑",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png",
+          "groupTitle": "数字频道",
+          "name": "惊悚悬疑",
+          "url": "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv潮妈辣婆",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png",
+          "groupTitle": "数字频道",
+          "name": "潮妈辣婆",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品体育.png",
+          "groupTitle": "数字频道",
+          "name": "精品体育",
+          "url": "http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品纪录.png",
+          "groupTitle": "数字频道",
+          "name": "精品纪录",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv家庭剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV家庭剧场.png",
+          "groupTitle": "数字频道",
+          "name": "家庭剧场",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品大剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品大剧.png",
+          "groupTitle": "数字频道",
+          "name": "精品大剧",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv军事评论",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV军事评论.png",
+          "groupTitle": "数字频道",
+          "name": "军事评论",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv明星大片",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV明星大片.png",
+          "groupTitle": "数字频道",
+          "name": "明星大片",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv欢乐剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",
+          "groupTitle": "数字频道",
+          "name": "欢乐剧场",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品萌宠",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品萌宠.png",
+          "groupTitle": "数字频道",
+          "name": "精品萌宠",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级综艺",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级综艺.png",
+          "groupTitle": "数字频道",
+          "name": "超级综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv金牌综艺",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV金牌综艺.png",
+          "groupTitle": "数字频道",
+          "name": "金牌综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "全部频道",
+      "desc": "央视频道+卫视频道+数字频道",
+      "fileName": "IPTV.m3u",
+      "filePath": "./m3u/IPTV.m3u",
+      "total": 113,
+      "channels": [
+        {
+          "duration": -1,
+          "tvgName": "CCTV1",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-1 综合",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV2",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-2 财经",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV3",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-3 综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV4",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-4 中文国际",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV5",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-5 体育",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV5+",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-5+ 体育赛事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV6",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-6 电影",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV7",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-7 国防军事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV8",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-8 电视剧",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV9",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-9 纪录",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV10",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-10 科教",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV11",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-11 戏曲",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV12",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-12 社会与法",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV13",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-13 新闻",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV14",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-14 少儿",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV15",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-15 音乐",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV16",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-16 奥林匹克",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CCTV17",
+          "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
+          "groupTitle": "央视频道",
+          "name": "CCTV-17 农业农村",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC影迷电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC影迷电影.png",
+          "groupTitle": "央视频道",
+          "name": "CHC影迷电影",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC动作电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC动作电影.png",
+          "groupTitle": "央视频道",
+          "name": "CHC动作电影",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CHC家庭影院",
+          "tvgLogo": "https://live.fanmingming.com/tv/CHC家庭影院.png",
+          "groupTitle": "央视频道",
+          "name": "CHC家庭影院",
+          "url": "http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN英语",
+          "url": "https://0472.org/hls/cgtn.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN纪录.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN记录",
+          "url": "https://0472.org/hls/cgtnd.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN俄语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN俄语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN俄语",
+          "url": "https://0472.org/hls/cgtne.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN法语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN法语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN法语",
+          "url": "https://0472.org/hls/cgtnf.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN西语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN西语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN西语",
+          "url": "https://0472.org/hls/cgtnx.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "CGTN阿语",
+          "tvgLogo": "https://live.fanmingming.com/tv/CGTN阿语.png",
+          "groupTitle": "央视频道",
+          "name": "CGTN阿语",
+          "url": "https://0472.org/hls/cgtna.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "北京卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/北京卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "北京卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "湖南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/湖南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "湖南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "东方卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/东方卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "东方卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "四川卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/四川卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "四川卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "天津卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/天津卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "天津卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "安徽卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/安徽卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "安徽卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "山东卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/山东卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "山东卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "深圳卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/深圳卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "深圳卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "广东卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/广东卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "广东卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "广西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/广西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "广西卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "江苏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/江苏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "江苏卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "江西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/江西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "江西卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "河北卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/河北卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "河北卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "河南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/河南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "河南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "浙江卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/浙江卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "浙江卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "海南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/海南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "海南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "湖北卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/湖北卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "湖北卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "山西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "山西卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "东南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/东南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "东南卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "贵州卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/贵州卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "贵州卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "辽宁卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/辽宁卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "辽宁卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "重庆卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/重庆卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "重庆卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑龙江卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑龙江卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "黑龙江卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "内蒙古卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "内蒙古卫视",
+          "url": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
+        },
+        {
+          "duration": -1,
+          "tvgName": "宁夏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/宁夏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "宁夏卫视",
+          "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "陕西卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/陕西卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "陕西卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "吉林卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/吉林卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "吉林卫视",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "甘肃卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/甘肃卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "甘肃卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "云南卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/云南卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "云南卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "三沙卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/三沙卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "三沙卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "青海卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/青海卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "青海卫视",
+          "url": "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "新疆卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/新疆卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "新疆卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "西藏卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "西藏卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "兵团卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/兵团卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "兵团卫视",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "延边卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/延边卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "延边卫视",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "安多卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/安多卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "安多卫视",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "厦门卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/厦门卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "厦门卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "康巴卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/康巴卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "康巴卫视",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "大湾区卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/大湾区卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "大湾区卫视",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育1台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV1.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-1",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育2台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV2.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-2",
+          "url": "http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "中国教育4台",
+          "tvgLogo": "https://live.fanmingming.com/tv/CETV4.png",
+          "groupTitle": "卫视频道",
+          "name": "CETV-4",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "上海纪实人文",
+          "tvgLogo": "https://live.fanmingming.com/tv/纪实人文.png",
+          "groupTitle": "数字频道",
+          "name": "纪实人文",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "纪实科教",
+          "tvgLogo": "https://live.fanmingming.com/tv/北京纪实科教.png",
+          "groupTitle": "数字频道",
+          "name": "纪实科教",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "劲爆体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/劲爆体育.png",
+          "groupTitle": "数字频道",
+          "name": "劲爆体育",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "全纪实",
+          "tvgLogo": "https://live.fanmingming.com/tv/乐游.png",
+          "groupTitle": "数字频道",
+          "name": "乐游频道",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "欢笑剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/欢笑剧场.png",
+          "groupTitle": "数字频道",
+          "name": "欢笑剧场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "都市剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/都市剧场.png",
+          "groupTitle": "数字频道",
+          "name": "都市剧场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金色学堂",
+          "tvgLogo": "https://live.fanmingming.com/tv/金色学堂.png",
+          "groupTitle": "数字频道",
+          "name": "金色学堂",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "卡酷动画",
+          "tvgLogo": "https://live.fanmingming.com/tv/卡酷少儿.png",
+          "groupTitle": "数字频道",
+          "name": "卡酷少儿",
+          "url": "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金鹰卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/金鹰卡通.png",
+          "groupTitle": "数字频道",
+          "name": "金鹰卡通",
+          "url": "http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "金鹰纪实",
+          "tvgLogo": "https://live.fanmingming.com/tv/金鹰纪实.png",
+          "groupTitle": "数字频道",
+          "name": "金鹰纪实",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "快乐垂钓",
+          "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
+          "groupTitle": "数字频道",
+          "name": "快乐垂钓",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "茶",
+          "tvgLogo": "https://live.fanmingming.com/tv/茶.png",
+          "groupTitle": "数字频道",
+          "name": "茶友频道",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "游戏风云",
+          "tvgLogo": "https://live.fanmingming.com/tv/游戏风云.png",
+          "groupTitle": "数字频道",
+          "name": "游戏风云",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "动漫秀场",
+          "tvgLogo": "https://live.fanmingming.com/tv/动漫秀场.png",
+          "groupTitle": "数字频道",
+          "name": "动漫秀场",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "嘉佳卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/嘉佳卡通.png",
+          "groupTitle": "数字频道",
+          "name": "嘉佳卡通",
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哒啵赛事",
+          "tvgLogo": "https://live.fanmingming.com/tv/哒啵赛事.png",
+          "groupTitle": "数字频道",
+          "name": "哒啵赛事",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哒啵电竞",
+          "tvgLogo": "https://live.fanmingming.com/tv/哒啵电竞.png",
+          "groupTitle": "数字频道",
+          "name": "哒啵电竞",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "优漫卡通",
+          "tvgLogo": "https://live.fanmingming.com/tv/优漫卡通.png",
+          "groupTitle": "数字频道",
+          "name": "优漫卡通",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "哈哈炫动",
+          "tvgLogo": "https://live.fanmingming.com/tv/哈哈炫动.png",
+          "groupTitle": "数字频道",
+          "name": "哈哈炫动",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑莓动画",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑莓动画.png",
+          "groupTitle": "数字频道",
+          "name": "黑莓动画",
+          "url": "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "黑莓电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/黑莓电影.png",
+          "groupTitle": "数字频道",
+          "name": "黑莓电影",
+          "url": "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索纪录.png",
+          "groupTitle": "数字频道",
+          "name": "求索纪录",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索生活",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索生活.png",
+          "groupTitle": "数字频道",
+          "name": "求索生活",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索动物",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索动物.png",
+          "groupTitle": "数字频道",
+          "name": "求索动物",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "求索科学",
+          "tvgLogo": "https://live.fanmingming.com/tv/求索科学.png",
+          "groupTitle": "数字频道",
+          "name": "求索科学",
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级体育.png",
+          "groupTitle": "数字频道",
+          "name": "超级体育",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级电影",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级电影.png",
+          "groupTitle": "数字频道",
+          "name": "超级电影",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级电视剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级电视剧.png",
+          "groupTitle": "数字频道",
+          "name": "超级视剧",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv东北热剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV东北热剧.png",
+          "groupTitle": "数字频道",
+          "name": "东北热剧",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv海外剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV海外剧场.png",
+          "groupTitle": "数字频道",
+          "name": "海外剧场",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv中国功夫",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV中国功夫.png",
+          "groupTitle": "数字频道",
+          "name": "中国功夫",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv军旅剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV军旅剧场.png",
+          "groupTitle": "数字频道",
+          "name": "军旅剧场",
+          "url": "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv惊悚悬疑",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png",
+          "groupTitle": "数字频道",
+          "name": "惊悚悬疑",
+          "url": "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv潮妈辣婆",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png",
+          "groupTitle": "数字频道",
+          "name": "潮妈辣婆",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品体育",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品体育.png",
+          "groupTitle": "数字频道",
+          "name": "精品体育",
+          "url": "http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品纪录",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品纪录.png",
+          "groupTitle": "数字频道",
+          "name": "精品纪录",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv家庭剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV家庭剧场.png",
+          "groupTitle": "数字频道",
+          "name": "家庭剧场",
+          "url": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品大剧",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品大剧.png",
+          "groupTitle": "数字频道",
+          "name": "精品大剧",
+          "url": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv军事评论",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV军事评论.png",
+          "groupTitle": "数字频道",
+          "name": "军事评论",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv明星大片",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV明星大片.png",
+          "groupTitle": "数字频道",
+          "name": "明星大片",
+          "url": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv欢乐剧场",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",
+          "groupTitle": "数字频道",
+          "name": "欢乐剧场",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv精品萌宠",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV精品萌宠.png",
+          "groupTitle": "数字频道",
+          "name": "精品萌宠",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv超级综艺",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级综艺.png",
+          "groupTitle": "数字频道",
+          "name": "超级综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "newtv金牌综艺",
+          "tvgLogo": "https://live.fanmingming.com/tv/NEWTV金牌综艺.png",
+          "groupTitle": "数字频道",
+          "name": "金牌综艺",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2024-09-18T17:45:25.582Z"
+}
