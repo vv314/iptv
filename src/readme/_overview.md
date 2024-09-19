@@ -1,5 +1,5 @@
-| 文件 | 说明 | 下载链接 |
-| ---- | ---- | -------- |
+| 文件 | 内容 | 频道数 |
+| ---- | ----- | --- |
 {{#assets}}
-| [{{fileName}}]({{{filePath}}}) | {{desc}} | https://raw.githubusercontent.com/vv314/iptv/main/m3u/{{fileName}} |
+| [{{fileName}}](https://raw.githubusercontent.com/vv314/iptv/main/m3u/{{fileName}}) | {{desc}} | {{total}} |
 {{/assets}}

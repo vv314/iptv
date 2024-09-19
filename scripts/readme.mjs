@@ -17,6 +17,7 @@ function getViewData(manifest) {
     }));
   const assets = manifest.playlists.map((e) => ({
     desc: e.desc,
+    total: e.total,
     fileName: e.fileName,
     filePath: e.filePath
   }));
