@@ -12,6 +12,7 @@ function getViewData(manifest) {
     .filter((e) => e.name !== '全部频道')
     .map((e) => ({
       cate: e.name,
+      fileName: e.fileName,
       total: e.total,
       channels: e.channels.map((c) => c.name).join('、')
     }));

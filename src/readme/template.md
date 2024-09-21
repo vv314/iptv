@@ -4,8 +4,18 @@
 
 {{> overview}}
 
+## 资源地址
+
+国内加速
+```
+https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
+```
+
 ## 频道详情
+<details>
+<summary>展开</summary>
 {{> playlist}}
+</details>
 
 ## EGP 源
 

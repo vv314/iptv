@@ -7,7 +7,7 @@ export async function makeDTV(m3uText) {
     desc: '数字频道',
     fileName: 'DTV.m3u',
     headers: {
-      xTvgUrl: 'https://e.erw.cc/cc.xml.gz'
+      xTvgUrl: 'https://e.erw.cc/cc.xml'
     }
   });
 

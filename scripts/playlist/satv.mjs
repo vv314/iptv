@@ -7,7 +7,7 @@ export async function makeSATV(m3uText) {
     desc: '卫视频道',
     fileName: 'SATV.m3u',
     headers: {
-      xTvgUrl: 'https://e.erw.cc/cc.xml.gz'
+      xTvgUrl: 'https://e.erw.cc/cc.xml'
     }
   });
 

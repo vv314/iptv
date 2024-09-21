@@ -29,7 +29,6 @@ jobs:
       - uses: pnpm/action-setup@v4
         name: Install pnpm
         with:
-          version: 8
           run_install: false
 
       - name: Setup Node.js
@@ -44,9 +43,13 @@ jobs:
       - name: Update playlists
         run: pnpm build
 
-      - run: git status
+      - name: Get changes
+        run: |
+          git status
+          echo "CHANGES=$(git status --porcelain | grep -q 'VERSION'; echo $?)" >> $GITHUB_ENV
+
       - name: Commit Update
-        if: ${{ git status --porcelain | grep -q "VERSION" }}
+        if: ${{ env.CHANGES == 0 }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
