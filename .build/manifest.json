@@ -12,7 +12,7 @@
           "tvgName": "CCTV1",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
           "groupTitle": "央视频道",
-          "name": "CCTV1",
+          "name": "CCTV-1 综合",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
         },
         {
@@ -20,7 +20,7 @@
           "tvgName": "CCTV2",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
-          "name": "CCTV2",
+          "name": "CCTV-2 财经",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
         },
         {
@@ -28,7 +28,7 @@
           "tvgName": "CCTV3",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
           "groupTitle": "央视频道",
-          "name": "CCTV3",
+          "name": "CCTV-3 综艺",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
         },
         {
@@ -36,7 +36,7 @@
           "tvgName": "CCTV4",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
           "groupTitle": "央视频道",
-          "name": "CCTV4",
+          "name": "CCTV-4 中文国际",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
         },
         {
@@ -44,7 +44,7 @@
           "tvgName": "CCTV5",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
           "groupTitle": "央视频道",
-          "name": "CCTV5",
+          "name": "CCTV-5 体育",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
         },
         {
@@ -52,7 +52,7 @@
           "tvgName": "CCTV5+",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
           "groupTitle": "央视频道",
-          "name": "CCTV5+",
+          "name": "CCTV-5+ 体育赛事",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
         },
         {
@@ -60,7 +60,7 @@
           "tvgName": "CCTV6",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
           "groupTitle": "央视频道",
-          "name": "CCTV6",
+          "name": "CCTV-6 电影",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
         },
         {
@@ -68,7 +68,7 @@
           "tvgName": "CCTV7",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
           "groupTitle": "央视频道",
-          "name": "CCTV7",
+          "name": "CCTV-7 国防军事",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
         },
         {
@@ -76,7 +76,7 @@
           "tvgName": "CCTV8",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
           "groupTitle": "央视频道",
-          "name": "CCTV8",
+          "name": "CCTV-8 电视剧",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
         },
         {
@@ -84,7 +84,7 @@
           "tvgName": "CCTV9",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
           "groupTitle": "央视频道",
-          "name": "CCTV9",
+          "name": "CCTV-9 纪录",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
         },
         {
@@ -92,7 +92,7 @@
           "tvgName": "CCTV10",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
           "groupTitle": "央视频道",
-          "name": "CCTV10",
+          "name": "CCTV-10 科教",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
         },
         {
@@ -100,7 +100,7 @@
           "tvgName": "CCTV11",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
           "groupTitle": "央视频道",
-          "name": "CCTV11",
+          "name": "CCTV-11 戏曲",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
         },
         {
@@ -108,7 +108,7 @@
           "tvgName": "CCTV12",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
           "groupTitle": "央视频道",
-          "name": "CCTV12",
+          "name": "CCTV-12 社会与法",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
         },
         {
@@ -116,7 +116,7 @@
           "tvgName": "CCTV13",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
           "groupTitle": "央视频道",
-          "name": "CCTV13",
+          "name": "CCTV-13 新闻",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
         },
         {
@@ -124,7 +124,7 @@
           "tvgName": "CCTV14",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
           "groupTitle": "央视频道",
-          "name": "CCTV14",
+          "name": "CCTV-14 少儿",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
         },
         {
@@ -132,7 +132,7 @@
           "tvgName": "CCTV15",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
           "groupTitle": "央视频道",
-          "name": "CCTV15",
+          "name": "CCTV-15 音乐",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
         },
         {
@@ -140,7 +140,7 @@
           "tvgName": "CCTV16",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
           "groupTitle": "央视频道",
-          "name": "CCTV16",
+          "name": "CCTV-16 奥林匹克",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
         },
         {
@@ -148,7 +148,7 @@
           "tvgName": "CCTV17",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
           "groupTitle": "央视频道",
-          "name": "CCTV17",
+          "name": "CCTV-17 农业农村",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
         },
         {
@@ -180,7 +180,7 @@
           "tvgName": "CGTN",
           "tvgLogo": "https://live.fanmingming.com/tv/CGTN.png",
           "groupTitle": "央视频道",
-          "name": "CGTN",
+          "name": "CGTN英语",
           "url": "https://0472.org/hls/cgtn.m3u8"
         },
         {
@@ -188,7 +188,7 @@
           "tvgName": "CGTN纪录",
           "tvgLogo": "https://live.fanmingming.com/tv/CGTN纪录.png",
           "groupTitle": "央视频道",
-          "name": "CGTN纪录",
+          "name": "CGTN记录",
           "url": "https://0472.org/hls/cgtnd.m3u8"
         },
         {
@@ -943,7 +943,7 @@
           "tvgName": "CCTV1",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
           "groupTitle": "央视频道",
-          "name": "CCTV1",
+          "name": "CCTV-1 综合",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
         },
         {
@@ -951,7 +951,7 @@
           "tvgName": "CCTV2",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
-          "name": "CCTV2",
+          "name": "CCTV-2 财经",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
         },
         {
@@ -959,7 +959,7 @@
           "tvgName": "CCTV3",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
           "groupTitle": "央视频道",
-          "name": "CCTV3",
+          "name": "CCTV-3 综艺",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
         },
         {
@@ -967,7 +967,7 @@
           "tvgName": "CCTV4",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
           "groupTitle": "央视频道",
-          "name": "CCTV4",
+          "name": "CCTV-4 中文国际",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
         },
         {
@@ -975,7 +975,7 @@
           "tvgName": "CCTV5",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
           "groupTitle": "央视频道",
-          "name": "CCTV5",
+          "name": "CCTV-5 体育",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
         },
         {
@@ -983,7 +983,7 @@
           "tvgName": "CCTV5+",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
           "groupTitle": "央视频道",
-          "name": "CCTV5+",
+          "name": "CCTV-5+ 体育赛事",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
         },
         {
@@ -991,7 +991,7 @@
           "tvgName": "CCTV6",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
           "groupTitle": "央视频道",
-          "name": "CCTV6",
+          "name": "CCTV-6 电影",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
         },
         {
@@ -999,7 +999,7 @@
           "tvgName": "CCTV7",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
           "groupTitle": "央视频道",
-          "name": "CCTV7",
+          "name": "CCTV-7 国防军事",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
         },
         {
@@ -1007,7 +1007,7 @@
           "tvgName": "CCTV8",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
           "groupTitle": "央视频道",
-          "name": "CCTV8",
+          "name": "CCTV-8 电视剧",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
         },
         {
@@ -1015,7 +1015,7 @@
           "tvgName": "CCTV9",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
           "groupTitle": "央视频道",
-          "name": "CCTV9",
+          "name": "CCTV-9 纪录",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
         },
         {
@@ -1023,7 +1023,7 @@
           "tvgName": "CCTV10",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
           "groupTitle": "央视频道",
-          "name": "CCTV10",
+          "name": "CCTV-10 科教",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
         },
         {
@@ -1031,7 +1031,7 @@
           "tvgName": "CCTV11",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
           "groupTitle": "央视频道",
-          "name": "CCTV11",
+          "name": "CCTV-11 戏曲",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
         },
         {
@@ -1039,7 +1039,7 @@
           "tvgName": "CCTV12",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
           "groupTitle": "央视频道",
-          "name": "CCTV12",
+          "name": "CCTV-12 社会与法",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
         },
         {
@@ -1047,7 +1047,7 @@
           "tvgName": "CCTV13",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
           "groupTitle": "央视频道",
-          "name": "CCTV13",
+          "name": "CCTV-13 新闻",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
         },
         {
@@ -1055,7 +1055,7 @@
           "tvgName": "CCTV14",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
           "groupTitle": "央视频道",
-          "name": "CCTV14",
+          "name": "CCTV-14 少儿",
           "url": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
         },
         {
@@ -1063,7 +1063,7 @@
           "tvgName": "CCTV15",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
           "groupTitle": "央视频道",
-          "name": "CCTV15",
+          "name": "CCTV-15 音乐",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
         },
         {
@@ -1071,7 +1071,7 @@
           "tvgName": "CCTV16",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
           "groupTitle": "央视频道",
-          "name": "CCTV16",
+          "name": "CCTV-16 奥林匹克",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
         },
         {
@@ -1079,7 +1079,7 @@
           "tvgName": "CCTV17",
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
           "groupTitle": "央视频道",
-          "name": "CCTV17",
+          "name": "CCTV-17 农业农村",
           "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
         },
         {
@@ -1111,7 +1111,7 @@
           "tvgName": "CGTN",
           "tvgLogo": "https://live.fanmingming.com/tv/CGTN.png",
           "groupTitle": "央视频道",
-          "name": "CGTN",
+          "name": "CGTN英语",
           "url": "https://0472.org/hls/cgtn.m3u8"
         },
         {
@@ -1119,7 +1119,7 @@
           "tvgName": "CGTN纪录",
           "tvgLogo": "https://live.fanmingming.com/tv/CGTN纪录.png",
           "groupTitle": "央视频道",
-          "name": "CGTN纪录",
+          "name": "CGTN记录",
           "url": "https://0472.org/hls/cgtnd.m3u8"
         },
         {
@@ -1845,5 +1845,5 @@
       ]
     }
   ],
-  "updatedAt": "2024-09-22T02:47:22.198Z"
+  "updatedAt": "2024-09-22T06:58:34.099Z"
 }

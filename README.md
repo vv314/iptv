@@ -37,7 +37,7 @@ https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
 https://raw.githubusercontent.com/vv314/iptv/main/m3u/CCTV.m3u
 ```
 
-CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、CHC影迷电影、CHC动作电影、CHC家庭影院、CGTN、CGTN纪录、CGTN俄语、CGTN法语、CGTN西语、CGTN阿语
+CCTV-1 综合、CCTV-2 财经、CCTV-3 综艺、CCTV-4 中文国际、CCTV-5 体育、CCTV-5+ 体育赛事、CCTV-6 电影、CCTV-7 国防军事、CCTV-8 电视剧、CCTV-9 纪录、CCTV-10 科教、CCTV-11 戏曲、CCTV-12 社会与法、CCTV-13 新闻、CCTV-14 少儿、CCTV-15 音乐、CCTV-16 奥林匹克、CCTV-17 农业农村、CHC影迷电影、CHC动作电影、CHC家庭影院、CGTN英语、CGTN记录、CGTN俄语、CGTN法语、CGTN西语、CGTN阿语
 
 ### 卫视频道（42）
 

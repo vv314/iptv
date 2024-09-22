@@ -7,13 +7,11 @@ export async function makeCCTV(m3uText) {
     desc: '央视频道',
     fileName: 'CCTV.m3u',
     headers: {
-      xTvgUrl: 'https://e.erw.cc/cc.xml'
+      xTvgUrl: 'https://epg.112114.eu.org/'
     }
   });
 
   cctv.collectFromText(m3uText, (channel) => {
-    channel.name = channel.tvgName;
-
     return channel.groupTitle.includes('央视频道');
   });
 

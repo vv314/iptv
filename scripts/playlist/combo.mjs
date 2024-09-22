@@ -7,7 +7,7 @@ export async function makeCombo(groups) {
     desc: groups.map((e) => e.name).join('+'),
     fileName: 'IPTV.m3u',
     headers: {
-      xTvgUrl: 'https://e.erw.cc/cc.xml'
+      xTvgUrl: 'https://epg.112114.eu.org/'
     }
   });
 
