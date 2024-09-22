@@ -6,7 +6,18 @@
 
 ## 资源地址
 
-国内加速
+**Github 地址**
+
+```
+https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
+```
+
+**加速地址**
+
+```
+https://gh.idayer.com/https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
+```
+
 ```
 https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
 ```

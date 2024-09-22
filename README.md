@@ -2,29 +2,32 @@
 
 一些 IPv6 （主要）直播源，所有数据采集自互联网。
 
-| 文件                                                                       | 内容                       | 频道数 |
-| -------------------------------------------------------------------------- | -------------------------- | ------ |
-| [CCTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/CCTV.m3u) | 央视频道                   | 27     |
-| [SATV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/SATV.m3u) | 卫视频道                   | 42     |
-| [DTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u)   | 数字频道                   | 44     |
-| [IPTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/IPTV.m3u) | 央视频道+卫视频道+数字频道 | 113    |
+| 文件 | 内容 | 频道数 |
+| ---- | ----- | --- |
+| [CCTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/CCTV.m3u) | 央视频道 | 27 |
+| [SATV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/SATV.m3u) | 卫视频道 | 42 |
+| [DTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u) | 数字频道 | 44 |
+| [IPTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/IPTV.m3u) | 央视频道+卫视频道+数字频道 | 113 |
 
 ## 资源地址
 
-CDN（加速地址）
-
-```
-https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
-```
-
-Github（原始地址）
+**Github 地址**
 
 ```
 https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
 ```
 
-## 频道详情
+**加速地址**
 
+```
+https://gh.idayer.com/https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
+```
+
+```
+https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
+```
+
+## 频道详情
 <details>
 <summary>展开</summary>
 
@@ -34,7 +37,7 @@ https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
 https://raw.githubusercontent.com/vv314/iptv/main/m3u/CCTV.m3u
 ```
 
-CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、CHC 影迷电影、CHC 动作电影、CHC 家庭影院、CGTN、CGTN 纪录、CGTN 俄语、CGTN 法语、CGTN 西语、CGTN 阿语
+CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、CHC影迷电影、CHC动作电影、CHC家庭影院、CGTN、CGTN纪录、CGTN俄语、CGTN法语、CGTN西语、CGTN阿语
 
 ### 卫视频道（42）
 
@@ -51,7 +54,6 @@ https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u
 ```
 
 纪实人文、纪实科教、劲爆体育、乐游频道、欢笑剧场、都市剧场、金色学堂、卡酷少儿、金鹰卡通、金鹰纪实、快乐垂钓、茶友频道、游戏风云、动漫秀场、嘉佳卡通、哒啵赛事、哒啵电竞、优漫卡通、哈哈炫动、黑莓动画、黑莓电影、求索纪录、求索生活、求索动物、求索科学、超级体育、超级电影、超级视剧、东北热剧、海外剧场、中国功夫、军旅剧场、惊悚悬疑、潮妈辣婆、精品体育、精品纪录、家庭剧场、精品大剧、军事评论、明星大片、欢乐剧场、精品萌宠、超级综艺、金牌综艺
-
 </details>
 
 ## EGP 源
