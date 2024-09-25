@@ -21,7 +21,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
           "name": "CCTV-2 财经",
-          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+          "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8"
         },
         {
           "duration": -1,
@@ -230,8 +230,32 @@
       "desc": "卫视频道",
       "fileName": "SATV.m3u",
       "filePath": "./m3u/SATV.m3u",
-      "total": 42,
+      "total": 45,
       "channels": [
+        {
+          "duration": -1,
+          "tvgName": "凤凰中文",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视中文台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰中文",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "凤凰资讯",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视资讯台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰资讯",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "凤凰香港",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视香港台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰香港",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8"
+        },
         {
           "duration": -1,
           "tvgName": "北京卫视",
@@ -936,7 +960,7 @@
       "desc": "央视频道+卫视频道+数字频道",
       "fileName": "IPTV.m3u",
       "filePath": "./m3u/IPTV.m3u",
-      "total": 113,
+      "total": 116,
       "channels": [
         {
           "duration": -1,
@@ -952,7 +976,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
           "name": "CCTV-2 财经",
-          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+          "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8"
         },
         {
           "duration": -1,
@@ -1153,6 +1177,30 @@
           "groupTitle": "央视频道",
           "name": "CGTN阿语",
           "url": "https://0472.org/hls/cgtna.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "凤凰中文",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视中文台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰中文",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "凤凰资讯",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视资讯台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰资讯",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "凤凰香港",
+          "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视香港台.png",
+          "groupTitle": "卫视频道",
+          "name": "凤凰香港",
+          "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8"
         },
         {
           "duration": -1,
@@ -1845,5 +1893,5 @@
       ]
     }
   ],
-  "updatedAt": "2024-09-22T06:58:34.099Z"
+  "updatedAt": "2024-09-25T13:58:23.656Z"
 }
