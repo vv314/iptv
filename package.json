@@ -6,9 +6,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm run build:playlist && npm run build:readme",
-    "build:playlist": "node scripts/cmd.mjs playlist",
-    "build:readme": "node scripts/cmd.mjs readme"
+    "cmd": "node scripts/cmd.mjs",
+    "build": "pnpm build:playlist && pnpm build:readme",
+    "build:playlist": "npm run cmd playlist -s",
+    "build:readme": "npm run cmd readme -s",
+    "cdn:purge": "npm run cmd purge -s"
   },
   "keywords": [
     "iptv"

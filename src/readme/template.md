@@ -15,10 +15,6 @@ https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
 **加速地址**
 
 ```
-https://gh.idayer.com/https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
-```
-
-```
 https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
 ```
 
@@ -28,13 +24,14 @@ https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
 {{> playlist}}
 </details>
 
-## EGP 源
+## EGP
+
+https://epg.112114.eu.org/
 
 https://epg.erw.cc/
 
-http://epg.51zmt.top:8000/e.xml
+http://epg.51zmt.top:8000
 
-https://epg.112114.xyz/pp.xml
 
 ## 致谢
 

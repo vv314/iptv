@@ -56,3 +56,9 @@ jobs:
           git add .
           git commit -m "[Bot] Update Playlists"
           git push
+
+      - name: Purge CDN cache
+        if: ${{ env.CHANGES == 0 }}
+        run: |
+          sleep 3s
+          pnpm cdn:purge

@@ -2,6 +2,7 @@ import { copyFile } from 'node:fs/promises';
 import path from 'node:path';
 import buildPlaylist from './playlist/index.mjs';
 import buildReadme from './readme.mjs';
+import { purgeCache } from './cdn.mjs';
 import { md5 } from './util.mjs';
 import { ROOT_DIR } from './const.mjs';
 import {
@@ -61,6 +62,21 @@ async function handleReadme() {
   console.log('[BUILD] README done');
 }
 
+async function handlePurge() {
+  let manifest = null;
+
+  try {
+    manifest = await readManifest();
+  } catch {
+    console.error('Failed to load playlist data, run `playlist` command first');
+    process.exit(1);
+  }
+
+  const results = await purgeCache(manifest);
+
+  console.log(JSON.stringify(results, null, 2));
+}
+
 async function main(cmd) {
   switch (cmd) {
     case 'playlist':
@@ -68,6 +84,9 @@ async function main(cmd) {
       break;
     case 'readme':
       await handleReadme();
+      break;
+    case 'purge':
+      await handlePurge();
       break;
     default:
       console.error(`Unknown command: ${cmd}`);

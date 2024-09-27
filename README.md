@@ -20,10 +20,6 @@ https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
 **加速地址**
 
 ```
-https://gh.idayer.com/https://raw.githubusercontent.com/vv314/iptv/main/IPTV.m3u
-```
-
-```
 https://cdn.jsdelivr.net/gh/vv314/iptv@main/IPTV.m3u
 ```
 
@@ -56,13 +52,14 @@ https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u
 纪实人文、纪实科教、劲爆体育、乐游频道、欢笑剧场、都市剧场、金色学堂、卡酷少儿、金鹰卡通、金鹰纪实、快乐垂钓、茶友频道、游戏风云、动漫秀场、嘉佳卡通、哒啵赛事、哒啵电竞、优漫卡通、哈哈炫动、黑莓动画、黑莓电影、求索纪录、求索生活、求索动物、求索科学、超级体育、超级电影、超级视剧、东北热剧、海外剧场、中国功夫、军旅剧场、惊悚悬疑、潮妈辣婆、精品体育、精品纪录、家庭剧场、精品大剧、军事评论、明星大片、欢乐剧场、精品萌宠、超级综艺、金牌综艺
 </details>
 
-## EGP 源
+## EGP
+
+https://epg.112114.eu.org/
 
 https://epg.erw.cc/
 
-http://epg.51zmt.top:8000/e.xml
+http://epg.51zmt.top:8000
 
-https://epg.112114.xyz/pp.xml
 
 ## 致谢
 
