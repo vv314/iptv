@@ -599,7 +599,7 @@
       "desc": "数字频道",
       "fileName": "DTV.m3u",
       "filePath": "./m3u/DTV.m3u",
-      "total": 44,
+      "total": 48,
       "channels": [
         {
           "duration": -1,
@@ -803,6 +803,38 @@
         },
         {
           "duration": -1,
+          "tvgName": "晴彩竞技",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩竞技.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩竞技",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩篮球",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩篮球.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩篮球",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩青少",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩青少.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩青少",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩广场舞",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩广场舞.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩广场舞",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8"
+        },
+        {
+          "duration": -1,
           "tvgName": "newtv超级体育",
           "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级体育.png",
           "groupTitle": "数字频道",
@@ -960,7 +992,7 @@
       "desc": "央视频道+卫视频道+数字频道",
       "fileName": "IPTV.m3u",
       "filePath": "./m3u/IPTV.m3u",
-      "total": 116,
+      "total": 120,
       "channels": [
         {
           "duration": -1,
@@ -1740,6 +1772,38 @@
         },
         {
           "duration": -1,
+          "tvgName": "晴彩竞技",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩竞技.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩竞技",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩篮球",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩篮球.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩篮球",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩青少",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩青少.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩青少",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "晴彩广场舞",
+          "tvgLogo": "https://live.fanmingming.com/tv/晴彩广场舞.png",
+          "groupTitle": "数字频道",
+          "name": "晴彩广场舞",
+          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8"
+        },
+        {
+          "duration": -1,
           "tvgName": "newtv超级体育",
           "tvgLogo": "https://live.fanmingming.com/tv/NEWTV超级体育.png",
           "groupTitle": "数字频道",
@@ -1893,5 +1957,5 @@
       ]
     }
   ],
-  "updatedAt": "2024-09-25T13:58:23.656Z"
+  "updatedAt": "2024-09-30T00:17:06.444Z"
 }
