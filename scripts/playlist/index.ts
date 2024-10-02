@@ -1,8 +1,10 @@
 import fetch from 'axios';
-import { makeCCTV } from './cctv.mjs';
-import { makeSATV } from './satv.mjs';
-import { makeDTV } from './dtv.mjs';
-import { makeCombo } from './combo.mjs';
+import { makeCCTV } from './cctv.js';
+import { makeSATV } from './satv.js';
+import { makeDTV } from './dtv.js';
+import { makeCombo } from './combo.js';
+
+export { PlaylistCollector, type Playlist } from './collector.js';
 
 async function makePlaylist() {
   const res = await fetch(
@@ -11,15 +13,15 @@ async function makePlaylist() {
   const m3u = res.data;
 
   // 数组顺序敏感，影响整合文件的频道顺序
-  const collections = await Promise.all([
+  const collectors = await Promise.all([
     makeCCTV(m3u),
     makeSATV(m3u),
     makeDTV(m3u)
   ]);
 
-  const combo = await makeCombo(collections);
+  const combo = await makeCombo(collectors);
 
-  return [...collections, combo];
+  return [...collectors, combo];
 }
 
 export default makePlaylist;

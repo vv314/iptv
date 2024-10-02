@@ -1,7 +1,7 @@
-import Collector from './collector.mjs';
+import Collector from './collector.js';
 
 // 构建央视频道
-export async function makeCCTV(m3uText) {
+export async function makeCCTV(m3uText: string) {
   const cctv = new Collector({
     name: '央视频道',
     desc: '央视频道',
@@ -11,9 +11,9 @@ export async function makeCCTV(m3uText) {
     }
   });
 
-  cctv.collectFromText(m3uText, (channel) => {
-    return channel.groupTitle.includes('央视频道');
-  });
+  cctv.collectFromText(m3uText, (channel) =>
+    channel.groupTitle?.includes('央视频道')
+  );
 
   return cctv;
 }

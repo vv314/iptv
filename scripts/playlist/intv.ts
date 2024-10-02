@@ -1,4 +1,4 @@
-import Collector from './collector.mjs';
+import Collector from './collector.js';
 
 // 构建海外频道
 export async function makeINTV() {

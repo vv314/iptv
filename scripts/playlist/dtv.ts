@@ -1,7 +1,7 @@
-import Collector from './collector.mjs';
+import Collector from './collector.js';
 
 // 构建数字频道
-export async function makeDTV(m3uText) {
+export async function makeDTV(m3uText: string) {
   const dtv = new Collector({
     name: '数字频道',
     desc: '数字频道',
@@ -12,7 +12,7 @@ export async function makeDTV(m3uText) {
   });
 
   dtv.collectFromText(m3uText, (channel) =>
-    channel.groupTitle.includes('数字频道')
+    channel.groupTitle?.includes('数字频道')
   );
 
   return dtv;

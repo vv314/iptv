@@ -1,10 +1,11 @@
 import axios from 'axios';
+import type { Manifest } from './stats.js';
 
-function getJsdelivrUrl(pathname) {
+function getJsdelivrUrl(pathname: string) {
   return `https://purge.jsdelivr.net/gh/vv314/iptv@main/${pathname}`;
 }
 
-async function purgeCache(manifest) {
+async function purgeCache(manifest: Manifest) {
   const urls = manifest.playlists
     .map((e) => {
       const pathname = e.filePath.replace('./', '');

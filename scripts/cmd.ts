@@ -1,23 +1,28 @@
 import { copyFile } from 'node:fs/promises';
 import path from 'node:path';
-import buildPlaylist from './playlist/index.mjs';
-import buildReadme from './readme.mjs';
-import { purgeCache } from './cdn.mjs';
-import { md5 } from './util.mjs';
-import { ROOT_DIR } from './const.mjs';
+import buildPlaylist, { PlaylistCollector } from './playlist/index.js';
+import buildReadme from './readme.js';
+import { purgeCache } from './cdn.js';
+import { md5 } from './util.js';
+import { ROOT_DIR } from './const.js';
 import {
   readBuildVersion,
   writeBuildVersion,
   readManifest,
   writeManifest
-} from './stats.mjs';
+} from './stats.js';
 
-async function commitPlaylists(playlists, version) {
-  await writeManifest(playlists);
+async function commitPlaylists(
+  collectors: PlaylistCollector[],
+  version: string
+) {
+  await writeManifest(collectors);
   await writeBuildVersion(version);
-  await Promise.all(playlists.map((e) => e.save()));
+  await Promise.all(collectors.map((c) => c.save()));
 
-  const combo = playlists.find((e) => e.fileName === 'IPTV.m3u');
+  const combo = collectors.find(
+    (c) => c.fileName === 'IPTV.m3u'
+  ) as PlaylistCollector;
 
   // 复制一份到根目录
   await copyFile(
@@ -77,7 +82,7 @@ async function handlePurge() {
   console.log(JSON.stringify(results, null, 2));
 }
 
-async function main(cmd) {
+async function main(cmd: string) {
   switch (cmd) {
     case 'playlist':
       await handlePlaylist();
