@@ -5,11 +5,13 @@ function getJsdelivrUrl(pathname) {
 }
 
 async function purgeCache(manifest) {
-  const urls = manifest.playlists.map((e) => {
-    const pathname = e.filePath.replace('./', '');
+  const urls = manifest.playlists
+    .map((e) => {
+      const pathname = e.filePath.replace('./', '');
 
-    return getJsdelivrUrl(pathname);
-  });
+      return getJsdelivrUrl(pathname);
+    })
+    .concat(getJsdelivrUrl('IPTV.m3u'));
   const results = await Promise.all(
     urls.map((url) => axios(url).then((res) => res.data))
   );
