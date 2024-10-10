@@ -1,5 +1,7 @@
 # IPTV
 
+<a href="https://github.com/vv314/iptv"><img src="https://img.shields.io/github/last-commit/vv314/iptv/main?label=update" alt="update"></a>
+
 一些 IPv6 （主要）直播源，所有数据采集自互联网。
 
 | 文件 | 内容 | 频道数 |
