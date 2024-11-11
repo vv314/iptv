@@ -8,8 +8,8 @@
 | ---- | ----- | --- |
 | [CCTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/CCTV.m3u) | 央视频道 | 24 |
 | [SATV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/SATV.m3u) | 卫视频道 | 42 |
-| [DTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u) | 数字频道 | 30 |
-| [IPTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/IPTV.m3u) | 央视频道+卫视频道+数字频道 | 96 |
+| [DTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u) | 数字频道 | 50 |
+| [IPTV.m3u](https://raw.githubusercontent.com/vv314/iptv/main/m3u/IPTV.m3u) | 央视频道+卫视频道+数字频道 | 116 |
 
 ## 资源地址
 
@@ -45,13 +45,13 @@ https://raw.githubusercontent.com/vv314/iptv/main/m3u/SATV.m3u
 
 北京卫视、湖南卫视、东方卫视、四川卫视、天津卫视、安徽卫视、山东卫视、深圳卫视、广东卫视、广西卫视、江苏卫视、江西卫视、河北卫视、河南卫视、浙江卫视、海南卫视、湖北卫视、山西卫视、东南卫视、贵州卫视、辽宁卫视、重庆卫视、黑龙江卫视、内蒙古卫视、宁夏卫视、陕西卫视、吉林卫视、甘肃卫视、云南卫视、三沙卫视、青海卫视、新疆卫视、西藏卫视、兵团卫视、延边卫视、安多卫视、厦门卫视、康巴卫视、大湾区卫视、CETV-1、CETV-2、CETV-4
 
-### 数字频道（30）
+### 数字频道（50）
 
 ```
 https://raw.githubusercontent.com/vv314/iptv/main/m3u/DTV.m3u
 ```
 
-山东教育、纪实人文、纪实科教、劲爆体育、乐游频道、欢笑剧场、都市剧场、金色学堂、卡酷少儿、金鹰卡通、金鹰纪实、快乐垂钓、茶友频道、游戏风云、动漫秀场、嘉佳卡通、哒啵赛事、哒啵电竞、优漫卡通、哈哈炫动、黑莓动画、黑莓电影、求索纪录、求索生活、求索动物、求索科学、睛彩竞技、睛彩篮球、睛彩青少、睛彩广场舞
+山东教育、纪实人文、纪实科教、劲爆体育、乐游频道、欢笑剧场、都市剧场、金色学堂、卡酷少儿、金鹰卡通、金鹰纪实、快乐垂钓、茶友频道、游戏风云、动漫秀场、嘉佳卡通、哒啵赛事、哒啵电竞、优漫卡通、哈哈炫动、黑莓动画、黑莓电影、求索纪录、求索生活、求索动物、求索科学、睛彩竞技、睛彩篮球、睛彩青少、睛彩广场舞、超级体育、超级电影、超级视剧、东北热剧、海外剧场、中国功夫、军旅剧场、惊悚悬疑、潮妈辣婆、精品体育、精品纪录、家庭剧场、精品大剧、军事评论、明星大片、欢乐剧场、精品萌宠、超级综艺、金牌综艺、炫舞未来
 </details>
 
 ## EGP
