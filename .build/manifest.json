@@ -206,7 +206,7 @@
       "desc": "卫视频道",
       "fileName": "SATV.m3u",
       "filePath": "./m3u/SATV.m3u",
-      "total": 42,
+      "total": 43,
       "channels": [
         {
           "duration": -1,
@@ -350,7 +350,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
           "groupTitle": "卫视频道",
           "name": "山西卫视",
-          "url": "http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002214/index.m3u8"
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8"
         },
         {
           "duration": -1,
@@ -398,7 +398,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
           "groupTitle": "卫视频道",
           "name": "内蒙古卫视",
-          "url": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680"
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8"
         },
         {
           "duration": -1,
@@ -470,7 +470,15 @@
           "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
           "groupTitle": "卫视频道",
           "name": "西藏卫视",
-          "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225698/index.m3u8"
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "农林卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/农林卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "农林卫视",
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
         },
         {
           "duration": -1,
@@ -551,7 +559,7 @@
       "desc": "数字频道",
       "fileName": "DTV.m3u",
       "filePath": "./m3u/DTV.m3u",
-      "total": 50,
+      "total": 49,
       "channels": [
         {
           "duration": -1,
@@ -647,7 +655,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
           "groupTitle": "数字频道",
           "name": "快乐垂钓",
-          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8"
+          "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3"
         },
         {
           "duration": -1,
@@ -784,14 +792,6 @@
           "groupTitle": "数字频道",
           "name": "睛彩青少",
           "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8"
-        },
-        {
-          "duration": -1,
-          "tvgName": "睛彩广场舞",
-          "tvgLogo": "https://live.fanmingming.com/tv/睛彩广场舞.png",
-          "groupTitle": "数字频道",
-          "name": "睛彩广场舞",
-          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8"
         },
         {
           "duration": -1,
@@ -1296,7 +1296,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
           "groupTitle": "卫视频道",
           "name": "山西卫视",
-          "url": "http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002214/index.m3u8"
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8"
         },
         {
           "duration": -1,
@@ -1344,7 +1344,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
           "groupTitle": "卫视频道",
           "name": "内蒙古卫视",
-          "url": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680"
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8"
         },
         {
           "duration": -1,
@@ -1416,7 +1416,15 @@
           "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
           "groupTitle": "卫视频道",
           "name": "西藏卫视",
-          "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225698/index.m3u8"
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8"
+        },
+        {
+          "duration": -1,
+          "tvgName": "农林卫视",
+          "tvgLogo": "https://live.fanmingming.com/tv/农林卫视.png",
+          "groupTitle": "卫视频道",
+          "name": "农林卫视",
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
         },
         {
           "duration": -1,
@@ -1584,7 +1592,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
           "groupTitle": "数字频道",
           "name": "快乐垂钓",
-          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8"
+          "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3"
         },
         {
           "duration": -1,
@@ -1721,14 +1729,6 @@
           "groupTitle": "数字频道",
           "name": "睛彩青少",
           "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8"
-        },
-        {
-          "duration": -1,
-          "tvgName": "睛彩广场舞",
-          "tvgLogo": "https://live.fanmingming.com/tv/睛彩广场舞.png",
-          "groupTitle": "数字频道",
-          "name": "睛彩广场舞",
-          "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8"
         },
         {
           "duration": -1,
@@ -1893,5 +1893,5 @@
       ]
     }
   ],
-  "updatedAt": "2024-11-11T20:01:24.150Z"
+  "updatedAt": "2024-11-14T20:01:08.132Z"
 }
