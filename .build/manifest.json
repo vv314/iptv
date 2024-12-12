@@ -5,7 +5,7 @@
       "desc": "央视频道",
       "fileName": "CCTV.m3u",
       "filePath": "./m3u/CCTV.m3u",
-      "total": 30,
+      "total": 24,
       "channels": [
         {
           "duration": -1,
@@ -13,7 +13,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
           "groupTitle": "央视频道",
           "name": "CCTV-1 综合",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8"
         },
         {
           "duration": -1,
@@ -21,7 +21,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
           "name": "CCTV-2 财经",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8"
         },
         {
           "duration": -1,
@@ -29,7 +29,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
           "groupTitle": "央视频道",
           "name": "CCTV-3 综艺",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8"
         },
         {
           "duration": -1,
@@ -37,7 +37,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
           "groupTitle": "央视频道",
           "name": "CCTV-4 中文国际",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8"
         },
         {
           "duration": -1,
@@ -45,7 +45,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
           "groupTitle": "央视频道",
           "name": "CCTV-5 体育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8"
         },
         {
           "duration": -1,
@@ -53,7 +53,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
           "groupTitle": "央视频道",
           "name": "CCTV-5+ 体育赛事",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8"
         },
         {
           "duration": -1,
@@ -61,7 +61,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
           "groupTitle": "央视频道",
           "name": "CCTV-6 电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8"
         },
         {
           "duration": -1,
@@ -69,7 +69,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
           "groupTitle": "央视频道",
           "name": "CCTV-7 国防军事",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8"
         },
         {
           "duration": -1,
@@ -77,7 +77,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
           "groupTitle": "央视频道",
           "name": "CCTV-8 电视剧",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8"
         },
         {
           "duration": -1,
@@ -85,7 +85,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
           "groupTitle": "央视频道",
           "name": "CCTV-9 纪录",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8"
         },
         {
           "duration": -1,
@@ -93,7 +93,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
           "groupTitle": "央视频道",
           "name": "CCTV-10 科教",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8"
         },
         {
           "duration": -1,
@@ -101,7 +101,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
           "groupTitle": "央视频道",
           "name": "CCTV-11 戏曲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8"
         },
         {
           "duration": -1,
@@ -109,7 +109,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
           "groupTitle": "央视频道",
           "name": "CCTV-12 社会与法",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8"
         },
         {
           "duration": -1,
@@ -117,7 +117,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
           "groupTitle": "央视频道",
           "name": "CCTV-13 新闻",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8"
         },
         {
           "duration": -1,
@@ -125,7 +125,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
           "groupTitle": "央视频道",
           "name": "CCTV-14 少儿",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8"
         },
         {
           "duration": -1,
@@ -133,7 +133,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
           "groupTitle": "央视频道",
           "name": "CCTV-15 音乐",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8"
         },
         {
           "duration": -1,
@@ -149,55 +149,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
           "groupTitle": "央视频道",
           "name": "CCTV-17 农业农村",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4K",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4K.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4K 超高清",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4欧洲",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4欧洲.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4 欧洲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4美洲",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4美洲.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4 美洲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC动作电影",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC动作电影.png",
-          "groupTitle": "央视频道",
-          "name": "CHC动作电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC家庭影院",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC家庭影院.png",
-          "groupTitle": "央视频道",
-          "name": "CHC家庭影院",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC影迷电影",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC影迷电影.png",
-          "groupTitle": "央视频道",
-          "name": "CHC影迷电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8"
         },
         {
           "duration": -1,
@@ -262,7 +214,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/北京卫视.png",
           "groupTitle": "卫视频道",
           "name": "北京卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8"
         },
         {
           "duration": -1,
@@ -270,7 +222,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/湖南卫视.png",
           "groupTitle": "卫视频道",
           "name": "湖南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8"
         },
         {
           "duration": -1,
@@ -278,7 +230,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/东方卫视.png",
           "groupTitle": "卫视频道",
           "name": "东方卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8"
         },
         {
           "duration": -1,
@@ -286,7 +238,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/四川卫视.png",
           "groupTitle": "卫视频道",
           "name": "四川卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8"
         },
         {
           "duration": -1,
@@ -294,7 +246,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/天津卫视.png",
           "groupTitle": "卫视频道",
           "name": "天津卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8"
         },
         {
           "duration": -1,
@@ -302,7 +254,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/安徽卫视.png",
           "groupTitle": "卫视频道",
           "name": "安徽卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8"
         },
         {
           "duration": -1,
@@ -310,7 +262,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山东卫视.png",
           "groupTitle": "卫视频道",
           "name": "山东卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000527/index.m3u8"
         },
         {
           "duration": -1,
@@ -318,7 +270,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/深圳卫视.png",
           "groupTitle": "卫视频道",
           "name": "深圳卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8"
         },
         {
           "duration": -1,
@@ -326,7 +278,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/广东卫视.png",
           "groupTitle": "卫视频道",
           "name": "广东卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8"
         },
         {
           "duration": -1,
@@ -334,7 +286,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/广西卫视.png",
           "groupTitle": "卫视频道",
           "name": "广西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000368/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8"
         },
         {
           "duration": -1,
@@ -342,7 +294,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/江苏卫视.png",
           "groupTitle": "卫视频道",
           "name": "江苏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8"
         },
         {
           "duration": -1,
@@ -350,7 +302,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/江西卫视.png",
           "groupTitle": "卫视频道",
           "name": "江西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8"
         },
         {
           "duration": -1,
@@ -358,7 +310,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/河北卫视.png",
           "groupTitle": "卫视频道",
           "name": "河北卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8"
         },
         {
           "duration": -1,
@@ -366,7 +318,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/河南卫视.png",
           "groupTitle": "卫视频道",
           "name": "河南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8"
         },
         {
           "duration": -1,
@@ -374,7 +326,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/浙江卫视.png",
           "groupTitle": "卫视频道",
           "name": "浙江卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8"
         },
         {
           "duration": -1,
@@ -382,7 +334,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/海南卫视.png",
           "groupTitle": "卫视频道",
           "name": "海南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8"
         },
         {
           "duration": -1,
@@ -390,7 +342,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/湖北卫视.png",
           "groupTitle": "卫视频道",
           "name": "湖北卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8"
         },
         {
           "duration": -1,
@@ -398,7 +350,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
           "groupTitle": "卫视频道",
           "name": "山西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000032/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8"
         },
         {
           "duration": -1,
@@ -406,7 +358,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/东南卫视.png",
           "groupTitle": "卫视频道",
           "name": "东南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8"
         },
         {
           "duration": -1,
@@ -414,7 +366,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/贵州卫视.png",
           "groupTitle": "卫视频道",
           "name": "贵州卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8"
         },
         {
           "duration": -1,
@@ -422,7 +374,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/辽宁卫视.png",
           "groupTitle": "卫视频道",
           "name": "辽宁卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8"
         },
         {
           "duration": -1,
@@ -430,7 +382,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/重庆卫视.png",
           "groupTitle": "卫视频道",
           "name": "重庆卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8"
         },
         {
           "duration": -1,
@@ -438,7 +390,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/黑龙江卫视.png",
           "groupTitle": "卫视频道",
           "name": "黑龙江卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8"
         },
         {
           "duration": -1,
@@ -446,7 +398,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
           "groupTitle": "卫视频道",
           "name": "内蒙古卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8"
         },
         {
           "duration": -1,
@@ -454,7 +406,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/宁夏卫视.png",
           "groupTitle": "卫视频道",
           "name": "宁夏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8"
         },
         {
           "duration": -1,
@@ -462,7 +414,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/陕西卫视.png",
           "groupTitle": "卫视频道",
           "name": "陕西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8"
         },
         {
           "duration": -1,
@@ -470,7 +422,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/吉林卫视.png",
           "groupTitle": "卫视频道",
           "name": "吉林卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8"
         },
         {
           "duration": -1,
@@ -478,7 +430,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/甘肃卫视.png",
           "groupTitle": "卫视频道",
           "name": "甘肃卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8"
         },
         {
           "duration": -1,
@@ -486,7 +438,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/云南卫视.png",
           "groupTitle": "卫视频道",
           "name": "云南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8"
         },
         {
           "duration": -1,
@@ -494,7 +446,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/三沙卫视.png",
           "groupTitle": "卫视频道",
           "name": "三沙卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
         },
         {
           "duration": -1,
@@ -502,7 +454,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/青海卫视.png",
           "groupTitle": "卫视频道",
           "name": "青海卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8"
         },
         {
           "duration": -1,
@@ -510,7 +462,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/新疆卫视.png",
           "groupTitle": "卫视频道",
           "name": "新疆卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8"
         },
         {
           "duration": -1,
@@ -518,15 +470,15 @@
           "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
           "groupTitle": "卫视频道",
           "name": "西藏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8"
         },
         {
           "duration": -1,
-          "tvgName": "陕西农林卫视",
+          "tvgName": "农林卫视",
           "tvgLogo": "https://live.fanmingming.com/tv/农林卫视.png",
           "groupTitle": "卫视频道",
           "name": "农林卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
         },
         {
           "duration": -1,
@@ -534,7 +486,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/兵团卫视.png",
           "groupTitle": "卫视频道",
           "name": "兵团卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8"
         },
         {
           "duration": -1,
@@ -542,7 +494,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/延边卫视.png",
           "groupTitle": "卫视频道",
           "name": "延边卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8"
         },
         {
           "duration": -1,
@@ -558,7 +510,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/厦门卫视.png",
           "groupTitle": "卫视频道",
           "name": "厦门卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8"
         },
         {
           "duration": -1,
@@ -582,7 +534,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV1.png",
           "groupTitle": "卫视频道",
           "name": "CETV-1",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8"
         },
         {
           "duration": -1,
@@ -590,7 +542,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV2.png",
           "groupTitle": "卫视频道",
           "name": "CETV-2",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8"
         },
         {
           "duration": -1,
@@ -598,7 +550,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV4.png",
           "groupTitle": "卫视频道",
           "name": "CETV-4",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8"
         }
       ]
     },
@@ -607,7 +559,7 @@
       "desc": "数字频道",
       "fileName": "DTV.m3u",
       "filePath": "./m3u/DTV.m3u",
-      "total": 63,
+      "total": 49,
       "channels": [
         {
           "duration": -1,
@@ -615,7 +567,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山东教育.png",
           "groupTitle": "数字频道",
           "name": "山东教育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000067/index.m3u8"
         },
         {
           "duration": -1,
@@ -623,7 +575,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/纪实人文.png",
           "groupTitle": "数字频道",
           "name": "纪实人文",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8"
         },
         {
           "duration": -1,
@@ -631,7 +583,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/北京纪实科教.png",
           "groupTitle": "数字频道",
           "name": "纪实科教",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8"
         },
         {
           "duration": -1,
@@ -639,7 +591,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/劲爆体育.png",
           "groupTitle": "数字频道",
           "name": "劲爆体育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281"
         },
         {
           "duration": -1,
@@ -647,7 +599,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/乐游.png",
           "groupTitle": "数字频道",
           "name": "乐游频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
         },
         {
           "duration": -1,
@@ -663,15 +615,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/都市剧场.png",
           "groupTitle": "数字频道",
           "name": "都市剧场",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "生活时尚",
-          "tvgLogo": "https://live.fanmingming.com/tv/生活时尚.png",
-          "groupTitle": "数字频道",
-          "name": "生活时尚",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8"
         },
         {
           "duration": -1,
@@ -679,15 +623,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金色学堂.png",
           "groupTitle": "数字频道",
           "name": "金色学堂",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "魅力足球",
-          "tvgLogo": "https://live.fanmingming.com/tv/魅力足球.png",
-          "groupTitle": "数字频道",
-          "name": "魅力足球",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002021/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
         },
         {
           "duration": -1,
@@ -695,7 +631,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/卡酷少儿.png",
           "groupTitle": "数字频道",
           "name": "卡酷少儿",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8"
         },
         {
           "duration": -1,
@@ -703,7 +639,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金鹰卡通.png",
           "groupTitle": "数字频道",
           "name": "金鹰卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8"
         },
         {
           "duration": -1,
@@ -711,7 +647,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金鹰纪实.png",
           "groupTitle": "数字频道",
           "name": "金鹰纪实",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8"
         },
         {
           "duration": -1,
@@ -719,7 +655,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
           "groupTitle": "数字频道",
           "name": "快乐垂钓",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3"
         },
         {
           "duration": -1,
@@ -727,95 +663,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/茶.png",
           "groupTitle": "数字频道",
           "name": "茶友频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "先锋乒羽",
-          "tvgLogo": "https://live.fanmingming.com/tv/先锋乒羽.png",
-          "groupTitle": "数字频道",
-          "name": "先锋乒羽",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000650/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "文物宝库",
-          "tvgLogo": "https://live.fanmingming.com/tv/文物宝库.png",
-          "groupTitle": "数字频道",
-          "name": "文物宝库",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "梨园",
-          "tvgLogo": "https://live.fanmingming.com/tv/河南梨园.png",
-          "groupTitle": "数字频道",
-          "name": "梨园频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "武术世界",
-          "tvgLogo": "https://live.fanmingming.com/tv/武术世界.png",
-          "groupTitle": "数字频道",
-          "name": "武术世界",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "中国交通",
-          "tvgLogo": "https://live.fanmingming.com/tv/中国交通.png",
-          "groupTitle": "数字频道",
-          "name": "中国交通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "中华特产",
-          "tvgLogo": "https://live.fanmingming.com/tv/中华特产.png",
-          "groupTitle": "数字频道",
-          "name": "中华特产",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000642/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "书画",
-          "tvgLogo": "https://live.fanmingming.com/tv/书画.png",
-          "groupTitle": "数字频道",
-          "name": "书画频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "四海钓鱼",
-          "tvgLogo": "https://live.fanmingming.com/tv/四海钓鱼.png",
-          "groupTitle": "数字频道",
-          "name": "四海钓鱼",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "财富天下",
-          "tvgLogo": "https://live.fanmingming.com/tv/财富天下.png",
-          "groupTitle": "数字频道",
-          "name": "财富天下",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "环球旅游",
-          "tvgLogo": "https://live.fanmingming.com/tv/环球旅游.png",
-          "groupTitle": "数字频道",
-          "name": "环球旅游",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "车迷",
-          "tvgLogo": "https://live.fanmingming.com/tv/车迷.png",
-          "groupTitle": "数字频道",
-          "name": "车迷频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000645/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8"
         },
         {
           "duration": -1,
@@ -823,7 +671,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/游戏风云.png",
           "groupTitle": "数字频道",
           "name": "游戏风云",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
         },
         {
           "duration": -1,
@@ -831,7 +679,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/动漫秀场.png",
           "groupTitle": "数字频道",
           "name": "动漫秀场",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
         },
         {
           "duration": -1,
@@ -839,15 +687,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/嘉佳卡通.png",
           "groupTitle": "数字频道",
           "name": "嘉佳卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000074/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "优优宝贝",
-          "tvgLogo": "https://live.fanmingming.com/tv/优优宝贝.png",
-          "groupTitle": "数字频道",
-          "name": "优优宝贝",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000641/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8"
         },
         {
           "duration": -1,
@@ -871,7 +711,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/优漫卡通.png",
           "groupTitle": "数字频道",
           "name": "优漫卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8"
         },
         {
           "duration": -1,
@@ -879,7 +719,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/哈哈炫动.png",
           "groupTitle": "数字频道",
           "name": "哈哈炫动",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000050/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000069/index.m3u8"
         },
         {
           "duration": -1,
@@ -1120,7 +960,7 @@
       "desc": "央视频道+卫视频道+数字频道",
       "fileName": "IPTV.m3u",
       "filePath": "./m3u/IPTV.m3u",
-      "total": 136,
+      "total": 116,
       "channels": [
         {
           "duration": -1,
@@ -1128,7 +968,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
           "groupTitle": "央视频道",
           "name": "CCTV-1 综合",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8"
         },
         {
           "duration": -1,
@@ -1136,7 +976,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
           "groupTitle": "央视频道",
           "name": "CCTV-2 财经",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8"
         },
         {
           "duration": -1,
@@ -1144,7 +984,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
           "groupTitle": "央视频道",
           "name": "CCTV-3 综艺",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8"
         },
         {
           "duration": -1,
@@ -1152,7 +992,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
           "groupTitle": "央视频道",
           "name": "CCTV-4 中文国际",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8"
         },
         {
           "duration": -1,
@@ -1160,7 +1000,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
           "groupTitle": "央视频道",
           "name": "CCTV-5 体育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8"
         },
         {
           "duration": -1,
@@ -1168,7 +1008,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
           "groupTitle": "央视频道",
           "name": "CCTV-5+ 体育赛事",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8"
         },
         {
           "duration": -1,
@@ -1176,7 +1016,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
           "groupTitle": "央视频道",
           "name": "CCTV-6 电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8"
         },
         {
           "duration": -1,
@@ -1184,7 +1024,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
           "groupTitle": "央视频道",
           "name": "CCTV-7 国防军事",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8"
         },
         {
           "duration": -1,
@@ -1192,7 +1032,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
           "groupTitle": "央视频道",
           "name": "CCTV-8 电视剧",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8"
         },
         {
           "duration": -1,
@@ -1200,7 +1040,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
           "groupTitle": "央视频道",
           "name": "CCTV-9 纪录",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8"
         },
         {
           "duration": -1,
@@ -1208,7 +1048,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
           "groupTitle": "央视频道",
           "name": "CCTV-10 科教",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8"
         },
         {
           "duration": -1,
@@ -1216,7 +1056,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
           "groupTitle": "央视频道",
           "name": "CCTV-11 戏曲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8"
         },
         {
           "duration": -1,
@@ -1224,7 +1064,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
           "groupTitle": "央视频道",
           "name": "CCTV-12 社会与法",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8"
         },
         {
           "duration": -1,
@@ -1232,7 +1072,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
           "groupTitle": "央视频道",
           "name": "CCTV-13 新闻",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8"
         },
         {
           "duration": -1,
@@ -1240,7 +1080,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
           "groupTitle": "央视频道",
           "name": "CCTV-14 少儿",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8"
         },
         {
           "duration": -1,
@@ -1248,7 +1088,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
           "groupTitle": "央视频道",
           "name": "CCTV-15 音乐",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8"
         },
         {
           "duration": -1,
@@ -1264,55 +1104,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
           "groupTitle": "央视频道",
           "name": "CCTV-17 农业农村",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4K",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4K.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4K 超高清",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4欧洲",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4欧洲.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4 欧洲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CCTV4美洲",
-          "tvgLogo": "https://live.fanmingming.com/tv/CCTV4美洲.png",
-          "groupTitle": "央视频道",
-          "name": "CCTV-4 美洲",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC动作电影",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC动作电影.png",
-          "groupTitle": "央视频道",
-          "name": "CHC动作电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC家庭影院",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC家庭影院.png",
-          "groupTitle": "央视频道",
-          "name": "CHC家庭影院",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "CHC影迷电影",
-          "tvgLogo": "https://live.fanmingming.com/tv/CHC影迷电影.png",
-          "groupTitle": "央视频道",
-          "name": "CHC影迷电影",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8"
         },
         {
           "duration": -1,
@@ -1368,7 +1160,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/北京卫视.png",
           "groupTitle": "卫视频道",
           "name": "北京卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8"
         },
         {
           "duration": -1,
@@ -1376,7 +1168,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/湖南卫视.png",
           "groupTitle": "卫视频道",
           "name": "湖南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8"
         },
         {
           "duration": -1,
@@ -1384,7 +1176,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/东方卫视.png",
           "groupTitle": "卫视频道",
           "name": "东方卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8"
         },
         {
           "duration": -1,
@@ -1392,7 +1184,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/四川卫视.png",
           "groupTitle": "卫视频道",
           "name": "四川卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8"
         },
         {
           "duration": -1,
@@ -1400,7 +1192,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/天津卫视.png",
           "groupTitle": "卫视频道",
           "name": "天津卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8"
         },
         {
           "duration": -1,
@@ -1408,7 +1200,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/安徽卫视.png",
           "groupTitle": "卫视频道",
           "name": "安徽卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8"
         },
         {
           "duration": -1,
@@ -1416,7 +1208,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山东卫视.png",
           "groupTitle": "卫视频道",
           "name": "山东卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000527/index.m3u8"
         },
         {
           "duration": -1,
@@ -1424,7 +1216,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/深圳卫视.png",
           "groupTitle": "卫视频道",
           "name": "深圳卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8"
         },
         {
           "duration": -1,
@@ -1432,7 +1224,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/广东卫视.png",
           "groupTitle": "卫视频道",
           "name": "广东卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8"
         },
         {
           "duration": -1,
@@ -1440,7 +1232,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/广西卫视.png",
           "groupTitle": "卫视频道",
           "name": "广西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000368/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8"
         },
         {
           "duration": -1,
@@ -1448,7 +1240,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/江苏卫视.png",
           "groupTitle": "卫视频道",
           "name": "江苏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8"
         },
         {
           "duration": -1,
@@ -1456,7 +1248,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/江西卫视.png",
           "groupTitle": "卫视频道",
           "name": "江西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8"
         },
         {
           "duration": -1,
@@ -1464,7 +1256,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/河北卫视.png",
           "groupTitle": "卫视频道",
           "name": "河北卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8"
         },
         {
           "duration": -1,
@@ -1472,7 +1264,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/河南卫视.png",
           "groupTitle": "卫视频道",
           "name": "河南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8"
         },
         {
           "duration": -1,
@@ -1480,7 +1272,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/浙江卫视.png",
           "groupTitle": "卫视频道",
           "name": "浙江卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8"
         },
         {
           "duration": -1,
@@ -1488,7 +1280,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/海南卫视.png",
           "groupTitle": "卫视频道",
           "name": "海南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8"
         },
         {
           "duration": -1,
@@ -1496,7 +1288,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/湖北卫视.png",
           "groupTitle": "卫视频道",
           "name": "湖北卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8"
         },
         {
           "duration": -1,
@@ -1504,7 +1296,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
           "groupTitle": "卫视频道",
           "name": "山西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000032/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8"
         },
         {
           "duration": -1,
@@ -1512,7 +1304,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/东南卫视.png",
           "groupTitle": "卫视频道",
           "name": "东南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8"
         },
         {
           "duration": -1,
@@ -1520,7 +1312,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/贵州卫视.png",
           "groupTitle": "卫视频道",
           "name": "贵州卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8"
         },
         {
           "duration": -1,
@@ -1528,7 +1320,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/辽宁卫视.png",
           "groupTitle": "卫视频道",
           "name": "辽宁卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8"
         },
         {
           "duration": -1,
@@ -1536,7 +1328,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/重庆卫视.png",
           "groupTitle": "卫视频道",
           "name": "重庆卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8"
         },
         {
           "duration": -1,
@@ -1544,7 +1336,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/黑龙江卫视.png",
           "groupTitle": "卫视频道",
           "name": "黑龙江卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8"
         },
         {
           "duration": -1,
@@ -1552,7 +1344,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
           "groupTitle": "卫视频道",
           "name": "内蒙古卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8"
         },
         {
           "duration": -1,
@@ -1560,7 +1352,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/宁夏卫视.png",
           "groupTitle": "卫视频道",
           "name": "宁夏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8"
         },
         {
           "duration": -1,
@@ -1568,7 +1360,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/陕西卫视.png",
           "groupTitle": "卫视频道",
           "name": "陕西卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8"
         },
         {
           "duration": -1,
@@ -1576,7 +1368,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/吉林卫视.png",
           "groupTitle": "卫视频道",
           "name": "吉林卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8"
         },
         {
           "duration": -1,
@@ -1584,7 +1376,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/甘肃卫视.png",
           "groupTitle": "卫视频道",
           "name": "甘肃卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8"
         },
         {
           "duration": -1,
@@ -1592,7 +1384,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/云南卫视.png",
           "groupTitle": "卫视频道",
           "name": "云南卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8"
         },
         {
           "duration": -1,
@@ -1600,7 +1392,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/三沙卫视.png",
           "groupTitle": "卫视频道",
           "name": "三沙卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
         },
         {
           "duration": -1,
@@ -1608,7 +1400,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/青海卫视.png",
           "groupTitle": "卫视频道",
           "name": "青海卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8"
         },
         {
           "duration": -1,
@@ -1616,7 +1408,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/新疆卫视.png",
           "groupTitle": "卫视频道",
           "name": "新疆卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8"
         },
         {
           "duration": -1,
@@ -1624,15 +1416,15 @@
           "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
           "groupTitle": "卫视频道",
           "name": "西藏卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8"
         },
         {
           "duration": -1,
-          "tvgName": "陕西农林卫视",
+          "tvgName": "农林卫视",
           "tvgLogo": "https://live.fanmingming.com/tv/农林卫视.png",
           "groupTitle": "卫视频道",
           "name": "农林卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
         },
         {
           "duration": -1,
@@ -1640,7 +1432,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/兵团卫视.png",
           "groupTitle": "卫视频道",
           "name": "兵团卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8"
         },
         {
           "duration": -1,
@@ -1648,7 +1440,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/延边卫视.png",
           "groupTitle": "卫视频道",
           "name": "延边卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8"
         },
         {
           "duration": -1,
@@ -1664,7 +1456,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/厦门卫视.png",
           "groupTitle": "卫视频道",
           "name": "厦门卫视",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8"
         },
         {
           "duration": -1,
@@ -1688,7 +1480,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV1.png",
           "groupTitle": "卫视频道",
           "name": "CETV-1",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8"
         },
         {
           "duration": -1,
@@ -1696,7 +1488,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV2.png",
           "groupTitle": "卫视频道",
           "name": "CETV-2",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8"
         },
         {
           "duration": -1,
@@ -1704,7 +1496,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/CETV4.png",
           "groupTitle": "卫视频道",
           "name": "CETV-4",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8"
         },
         {
           "duration": -1,
@@ -1712,7 +1504,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/山东教育.png",
           "groupTitle": "数字频道",
           "name": "山东教育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000067/index.m3u8"
         },
         {
           "duration": -1,
@@ -1720,7 +1512,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/纪实人文.png",
           "groupTitle": "数字频道",
           "name": "纪实人文",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8"
         },
         {
           "duration": -1,
@@ -1728,7 +1520,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/北京纪实科教.png",
           "groupTitle": "数字频道",
           "name": "纪实科教",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8"
         },
         {
           "duration": -1,
@@ -1736,7 +1528,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/劲爆体育.png",
           "groupTitle": "数字频道",
           "name": "劲爆体育",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281"
         },
         {
           "duration": -1,
@@ -1744,7 +1536,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/乐游.png",
           "groupTitle": "数字频道",
           "name": "乐游频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
         },
         {
           "duration": -1,
@@ -1760,15 +1552,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/都市剧场.png",
           "groupTitle": "数字频道",
           "name": "都市剧场",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "生活时尚",
-          "tvgLogo": "https://live.fanmingming.com/tv/生活时尚.png",
-          "groupTitle": "数字频道",
-          "name": "生活时尚",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8"
         },
         {
           "duration": -1,
@@ -1776,15 +1560,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金色学堂.png",
           "groupTitle": "数字频道",
           "name": "金色学堂",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "魅力足球",
-          "tvgLogo": "https://live.fanmingming.com/tv/魅力足球.png",
-          "groupTitle": "数字频道",
-          "name": "魅力足球",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002021/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
         },
         {
           "duration": -1,
@@ -1792,7 +1568,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/卡酷少儿.png",
           "groupTitle": "数字频道",
           "name": "卡酷少儿",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8"
         },
         {
           "duration": -1,
@@ -1800,7 +1576,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金鹰卡通.png",
           "groupTitle": "数字频道",
           "name": "金鹰卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8"
         },
         {
           "duration": -1,
@@ -1808,7 +1584,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/金鹰纪实.png",
           "groupTitle": "数字频道",
           "name": "金鹰纪实",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8"
         },
         {
           "duration": -1,
@@ -1816,7 +1592,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
           "groupTitle": "数字频道",
           "name": "快乐垂钓",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3"
         },
         {
           "duration": -1,
@@ -1824,95 +1600,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/茶.png",
           "groupTitle": "数字频道",
           "name": "茶友频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "先锋乒羽",
-          "tvgLogo": "https://live.fanmingming.com/tv/先锋乒羽.png",
-          "groupTitle": "数字频道",
-          "name": "先锋乒羽",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000650/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "文物宝库",
-          "tvgLogo": "https://live.fanmingming.com/tv/文物宝库.png",
-          "groupTitle": "数字频道",
-          "name": "文物宝库",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "梨园",
-          "tvgLogo": "https://live.fanmingming.com/tv/河南梨园.png",
-          "groupTitle": "数字频道",
-          "name": "梨园频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "武术世界",
-          "tvgLogo": "https://live.fanmingming.com/tv/武术世界.png",
-          "groupTitle": "数字频道",
-          "name": "武术世界",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "中国交通",
-          "tvgLogo": "https://live.fanmingming.com/tv/中国交通.png",
-          "groupTitle": "数字频道",
-          "name": "中国交通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "中华特产",
-          "tvgLogo": "https://live.fanmingming.com/tv/中华特产.png",
-          "groupTitle": "数字频道",
-          "name": "中华特产",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000642/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "书画",
-          "tvgLogo": "https://live.fanmingming.com/tv/书画.png",
-          "groupTitle": "数字频道",
-          "name": "书画频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "四海钓鱼",
-          "tvgLogo": "https://live.fanmingming.com/tv/四海钓鱼.png",
-          "groupTitle": "数字频道",
-          "name": "四海钓鱼",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "财富天下",
-          "tvgLogo": "https://live.fanmingming.com/tv/财富天下.png",
-          "groupTitle": "数字频道",
-          "name": "财富天下",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "环球旅游",
-          "tvgLogo": "https://live.fanmingming.com/tv/环球旅游.png",
-          "groupTitle": "数字频道",
-          "name": "环球旅游",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "车迷",
-          "tvgLogo": "https://live.fanmingming.com/tv/车迷.png",
-          "groupTitle": "数字频道",
-          "name": "车迷频道",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000645/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8"
         },
         {
           "duration": -1,
@@ -1920,7 +1608,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/游戏风云.png",
           "groupTitle": "数字频道",
           "name": "游戏风云",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
         },
         {
           "duration": -1,
@@ -1928,7 +1616,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/动漫秀场.png",
           "groupTitle": "数字频道",
           "name": "动漫秀场",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
         },
         {
           "duration": -1,
@@ -1936,15 +1624,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/嘉佳卡通.png",
           "groupTitle": "数字频道",
           "name": "嘉佳卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000074/index.m3u8?IASHttpSessionId="
-        },
-        {
-          "duration": -1,
-          "tvgName": "优优宝贝",
-          "tvgLogo": "https://live.fanmingming.com/tv/优优宝贝.png",
-          "groupTitle": "数字频道",
-          "name": "优优宝贝",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000641/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8"
         },
         {
           "duration": -1,
@@ -1968,7 +1648,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/优漫卡通.png",
           "groupTitle": "数字频道",
           "name": "优漫卡通",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8"
         },
         {
           "duration": -1,
@@ -1976,7 +1656,7 @@
           "tvgLogo": "https://live.fanmingming.com/tv/哈哈炫动.png",
           "groupTitle": "数字频道",
           "name": "哈哈炫动",
-          "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000050/index.m3u8?IASHttpSessionId="
+          "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000069/index.m3u8"
         },
         {
           "duration": -1,
@@ -2213,5 +1893,5 @@
       ]
     }
   ],
-  "updatedAt": "2024-11-21T20:01:16.372Z"
+  "updatedAt": "2024-12-12T20:01:22.903Z"
 }
